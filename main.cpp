@@ -296,4 +296,5 @@ void hanoi(int disk, int start, int empty, int target)
          empty = copy;
          printf("%d --> %d\n", target, empty);
      }
-}            
+}    
+//qweopiqpowiepoqwieopqwiepoqwie        
